@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/ngprocesstxt.egg-info/PKG-INFO
+src/ngprocesstxt.egg-info/SOURCES.txt
+src/ngprocesstxt.egg-info/dependency_links.txt
+src/ngprocesstxt.egg-info/top_level.txt
+test/test_text_processing.py
